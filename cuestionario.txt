@@ -1,0 +1,29 @@
+1. ¿Qué lenguaje es directamente ejecutable por la computadora? 
+    a. Fuente. 
+    b. Máquina.   
+    c. Ensamblador. 
+    d. Objeto
+
+2. Tener deficiencias en la fase de _______ es la principal causa del gran porcentaje de fracasos de los proyectos software. 
+    a. Diseño 
+    b. Codificación 
+    c. Documentación 
+    d. Análisis 
+
+3. El modelo en cascada con realimentación es 
+    a. El modelo perfecto si los requisitos están claros y el proyecto es rígido 
+    b. El modelo idóneo si se prevén muchos cambios durante el desarrollo. 
+    c. Es el modelo de vida clásico del software. 
+    d. Es un tipo de modelo evolutivo
+
+4. El modelo en espiral 
+    a. Se trata de varios ciclos en cascada que se repiten y se refinan en cada incremento. 
+    b. Se divide en 6 zonas, llamadas regiones de tareas. 
+    c. Es un modelo bastante sencillo. 
+    d. Es un modelo rígido que permite pocos cambios.
+
+5. Que plugins tienes instalados en Visual Studio Code y cual es su función.
+
+6. Describe los pasos para realizar la depuración de un programa.
+
+7. Hacer una captura de pantalla, con la ejecución de la función piramide(10), cuando el valor de i sea igual a 5. Mostrar tambien el contenido de la variable línea (para i=5) justo antes de hacer el console.log(linea)
